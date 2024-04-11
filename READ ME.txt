@@ -1,0 +1,11 @@
+Project 3
+
+How can I add a line of config to each access port on the network? 
+
+Don't modify mytools, it contains the function for getpass.
+
+Do add/remove devices from devices.json for which devices you would like the script to run on.
+
+The lines of config in add-interface-config.txt are applied to each matched access-port. 
+
+The script will need two arguments to be ran: accessports.py devices.json
