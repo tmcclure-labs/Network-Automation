@@ -1,0 +1,10 @@
+Project 4
+
+How can I check interfaces on multiple devices to see if a certain configuration is applied?
+How can I have the script report back it's findings?
+
+
+Add/remove devices from devices.json for which devices you would like the script to run on.
+
+
+
