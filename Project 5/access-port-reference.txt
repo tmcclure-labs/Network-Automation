@@ -1,0 +1,6 @@
+authentication control-direction in
+authentication host-mode multi-auth
+authentication order mab dot1x
+authentication port-control auto
+source template IntTmpl-dot1x
+spanning-tree portfast edge
